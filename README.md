@@ -6,11 +6,6 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 💻 Skills Arsenal
 
-<div style="display: flex; align-items: center;">
-  <span>JavaScript </span>
-  <img src="https://simpleicons.org/icons/javascript.svg" width="20" height="20" style="margin-left: 5px;"/>
-</div>
-
 - JavaScript <img src="https://simpleicons.org/icons/javascript.svg" width="20"/>
 - TypeScript <img src="https://simpleicons.org/icons/typescript.svg" width="20"/>
 - ReactJS <img src="https://simpleicons.org/icons/react.svg" width="20"/>
@@ -27,9 +22,10 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FLinkedIn&psig=AOvVaw0sMtj_55sCGtcOB3Jd4dV2&ust=1701325059692000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCb4vDH6IIDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](icons/twitter.png)](https://twitter.com/your-twitter-handle)
-[![GitHub](icons/github.png)](https://github.com/your-github-username)
-[![Portfolio](icons/portfolio.png)](https://your-portfolio-link.com)
+[<img src="https://simpleicons.org/icons/linkedin.svg" width="20" height="20"/>](https://www.linkedin.com/in/punith-raj-t)
+[<img src="https://simpleicons.org/icons/twitter.svg" width="20" height="20"/>](https://twitter.com/punithrajT21)
+[<img src="https://simpleicons.org/icons/github.svg" width="20" height="20"/>](https://github.com/punithraj21)
+[<img src="https://simpleicons.org/icons/codepen.svg" width="20" height="20"/>](https://punith.bio.link)
+
 
 🚀 Let's connect and code the future together! Feel free to explore my projects and reach out for an intergalactic coding adventure. 😊
