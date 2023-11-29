@@ -1,10 +1,15 @@
-# 👋 Hey, I'm Punithraj!
+# 👋 Hey, I'm Punith Raj!
 
 ## 🚀 Crafting Digital Dreams!
 
 I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn caffeine into code and dreams into repositories. Here's a glimpse into my coding universe:
 
 ## 💻 Skills Arsenal
+
+<div style="display: flex; align-items: center;">
+  <span>JavaScript </span>
+  <img src="https://simpleicons.org/icons/javascript.svg" width="20" height="20" style="margin-left: 5px;"/>
+</div>
 
 - JavaScript <img src="https://simpleicons.org/icons/javascript.svg" width="20"/>
 - TypeScript <img src="https://simpleicons.org/icons/typescript.svg" width="20"/>
