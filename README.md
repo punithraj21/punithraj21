@@ -6,24 +6,17 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 💻 Skills Arsenal
 
-<table>
-  <tr>
-    <td>JavaScript <img src="https://simpleicons.org/icons/javascript.svg" width="20"/></td>
-    <td>TypeScript <img src="https://simpleicons.org/icons/typescript.svg" width="20"/></td>
-    <td>ReactJS <img src="https://simpleicons.org/icons/react.svg" width="20"/></td>
-  </tr>
-  <tr>
-    <td>NodeJS <img src="https://simpleicons.org/icons/nodedotjs.svg" width="20"/></td>
-    <td>AWS (EC2, RDS, DynamoDB) <img src="https://simpleicons.org/icons/amazonaws.svg" width="20"/></td>
-    <td>SQL & NoSQL <img src="https://simpleicons.org/icons/databricks.svg" width="20"/></td>
-  </tr>
-  <tr>
-    <td>TailwindCSS <img src="https://simpleicons.org/icons/tailwindcss.svg" width="20"/></td>
-    <td>Git <img src="https://simpleicons.org/icons/git.svg" width="20"/></td>
-    <td>Firebase <img src="https://simpleicons.org/icons/firebase.svg" width="20"/></td>
-  </tr>
-</table>
-
+- JavaScript <img src="https://simpleicons.org/icons/javascript.svg" width="20"/>
+- TypeScript <img src="https://simpleicons.org/icons/typescript.svg" width="20"/>
+- ReactJS <img src="https://simpleicons.org/icons/react.svg" width="20"/>
+- React Native <img src="https://simpleicons.org/icons/react.svg" width="20"/>
+- NodeJS <img src="https://simpleicons.org/icons/nodedotjs.svg" width="20"/>
+- Kotlin <img src="https://simpleicons.org/icons/kotlin.svg" width="20"/>
+- AWS (EC2, RDS, DynamoDB) <img src="https://simpleicons.org/icons/amazonaws.svg" width="20"/>
+- SQL & NoSQL <img src="https://simpleicons.org/icons/databricks.svg" width="20"/>
+- TailwindCSS <img src="https://simpleicons.org/icons/tailwindcss.svg" width="20"/>
+- Git <img src="https://simpleicons.org/icons/git.svg" width="20"/>
+- Firebase <img src="https://simpleicons.org/icons/firebase.svg" width="20"/>
 
 ## 🌈 Interests
 
