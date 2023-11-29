@@ -6,15 +6,15 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 💻 Skills Arsenal
 
-- JavaScript 
-- TypeScript 
-- ReactJS 
-- NodeJS 
-- AWS (EC2, RDS, DynamoDB) 
-- SQL & NoSQL 
-- TailwindCSS 
-- Git 
-- Firebase 
+- JavaScript ![JavaScript](https://simpleicons.org/icons/javascript.svg)
+- TypeScript ![TypeScript](https://simpleicons.org/icons/typescript.svg)
+- ReactJS ![ReactJS](https://simpleicons.org/icons/react.svg)
+- NodeJS ![NodeJS](https://simpleicons.org/icons/nodedotjs.svg)
+- AWS (EC2, RDS, DynamoDB) ![AWS](https://simpleicons.org/icons/amazonaws.svg)
+- SQL & NoSQL ![Database](https://simpleicons.org/icons/database.svg)
+- TailwindCSS ![TailwindCSS](https://simpleicons.org/icons/tailwindcss.svg)
+- Git ![Git](https://simpleicons.org/icons/git.svg)
+- Firebase ![Firebase](https://simpleicons.org/icons/firebase.svg)
 
 ## 🌈 Interests
 
