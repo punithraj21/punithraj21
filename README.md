@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Punith Raj!
+<h1 align="center">👋 Hey, I'm Punith Raj!</h1>
 
 ## 🚀 Crafting Digital Dreams!
 
