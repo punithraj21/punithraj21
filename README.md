@@ -11,7 +11,7 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 - ReactJS <img src="https://simpleicons.org/icons/react.svg" width="20"/>
 - NodeJS <img src="https://simpleicons.org/icons/nodedotjs.svg" width="20"/>
 - AWS (EC2, RDS, DynamoDB) <img src="https://simpleicons.org/icons/amazonaws.svg" width="20"/>
-- SQL & NoSQL <img src="https://simpleicons.org/icons/database.svg" width="20"/>
+- SQL & NoSQL <img src="https://simpleicons.org/icons/databricks.svg" width="20"/>
 - TailwindCSS <img src="https://simpleicons.org/icons/tailwindcss.svg" width="20"/>
 - Git <img src="https://simpleicons.org/icons/git.svg" width="20"/>
 - Firebase <img src="https://simpleicons.org/icons/firebase.svg" width="20"/>
