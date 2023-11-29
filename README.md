@@ -6,19 +6,19 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 💻 Skills Arsenal
 
-- JavaScript ![JavaScript](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/javascript.svg)
-- TypeScript ![TypeScript](icons/typescript.png)
-- ReactJS ![ReactJS](icons/react.png)
-- NodeJS ![NodeJS](icons/nodejs.png)
-- AWS (EC2, RDS, DynamoDB) ![AWS](icons/aws.png)
-- SQL & NoSQL ![Database](icons/database.png)
-- TailwindCSS ![TailwindCSS](icons/tailwindcss.png)
-- Git ![Git](icons/git.png)
-- Firebase ![Firebase](icons/firebase.png)
+- JavaScript 
+- TypeScript 
+- ReactJS 
+- NodeJS 
+- AWS (EC2, RDS, DynamoDB) 
+- SQL & NoSQL 
+- TailwindCSS 
+- Git 
+- Firebase 
 
 ## 🌈 Interests
 
-- Music, Reading, PC Games, Coding, Travelling, Movies, Exploring new things.
+- Music, Reading, PC Games, Coding, Traveling, Movies, Exploring new things.
 
 ## 🔗 Connect with Me
 
