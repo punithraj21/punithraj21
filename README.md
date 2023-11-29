@@ -6,15 +6,15 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 💻 Skills Arsenal
 
-- JavaScript ![JavaScript](https://simpleicons.org/icons/javascript.svg)
-- TypeScript ![TypeScript](https://simpleicons.org/icons/typescript.svg)
-- ReactJS ![ReactJS](https://simpleicons.org/icons/react.svg)
-- NodeJS ![NodeJS](https://simpleicons.org/icons/nodedotjs.svg)
-- AWS (EC2, RDS, DynamoDB) ![AWS](https://simpleicons.org/icons/amazonaws.svg)
-- SQL & NoSQL ![Database](https://simpleicons.org/icons/database.svg)
-- TailwindCSS ![TailwindCSS](https://simpleicons.org/icons/tailwindcss.svg)
-- Git ![Git](https://simpleicons.org/icons/git.svg)
-- Firebase ![Firebase](https://simpleicons.org/icons/firebase.svg)
+- JavaScript <img src="https://simpleicons.org/icons/javascript.svg" width="20"/>
+- TypeScript <img src="https://simpleicons.org/icons/typescript.svg" width="20"/>
+- ReactJS <img src="https://simpleicons.org/icons/react.svg" width="20"/>
+- NodeJS <img src="https://simpleicons.org/icons/nodedotjs.svg" width="20"/>
+- AWS (EC2, RDS, DynamoDB) <img src="https://simpleicons.org/icons/amazonaws.svg" width="20"/>
+- SQL & NoSQL <img src="https://simpleicons.org/icons/database.svg" width="20"/>
+- TailwindCSS <img src="https://simpleicons.org/icons/tailwindcss.svg" width="20"/>
+- Git <img src="https://simpleicons.org/icons/git.svg" width="20"/>
+- Firebase <img src="https://simpleicons.org/icons/firebase.svg" width="20"/>
 
 ## 🌈 Interests
 
