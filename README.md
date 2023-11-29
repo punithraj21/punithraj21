@@ -6,8 +6,8 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 💻 Skills Arsenal
 
-- JavaScript TypeScript <img src="https://simpleicons.org/icons/javascript.svg" width="20"/>
-- ReactJS React Native <img src="https://simpleicons.org/icons/react.svg" width="20"/>
+- JavaScript, TypeScript <img src="https://simpleicons.org/icons/javascript.svg" width="20"/>
+- ReactJS, React Native <img src="https://simpleicons.org/icons/react.svg" width="20"/>
 - NodeJS <img src="https://simpleicons.org/icons/nodedotjs.svg" width="20"/>
 - Kotlin <img src="https://simpleicons.org/icons/kotlin.svg" width="20"/>
 - AWS (EC2, RDS, DynamoDB) <img src="https://simpleicons.org/icons/amazonaws.svg" width="20"/>
