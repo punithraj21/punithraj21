@@ -6,7 +6,7 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 ## 💻 Skills Arsenal
 
-- JavaScript ![JavaScript](icons/javascript.png)
+- JavaScript ![JavaScript](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/javascript.svg)
 - TypeScript ![TypeScript](icons/typescript.png)
 - ReactJS ![ReactJS](icons/react.png)
 - NodeJS ![NodeJS](icons/nodejs.png)
