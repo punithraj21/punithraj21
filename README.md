@@ -21,6 +21,10 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 - Music, Reading, PC Games, Coding, Traveling, Movies, Exploring new things.
 
+**:pushpin: Profile overview:**
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=punithraj21.punithraj21)
+
 ## 🔗 Connect with Me
 
 [<img src="https://simpleicons.org/icons/linkedin.svg" width="20" height="20"/>](https://www.linkedin.com/in/punith-raj-t)
