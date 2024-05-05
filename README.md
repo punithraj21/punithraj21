@@ -23,7 +23,7 @@ I'm a passionate Software Engineer from Bengaluru, India, on a mission to turn c
 
 **:pushpin: Profile overview:**
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=punithraj21.punithraj21/punithraj21)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=punithraj21.R_kgDOKzXtxg)
 
 ## 🔗 Connect with Me
 
